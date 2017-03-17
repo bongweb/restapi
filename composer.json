@@ -1,0 +1,14 @@
+{
+    "name": "bongweb/restapi",
+    "description": "enable any model CRUD based restful functionality",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bongweb.com",
+            "email": "bongweb@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
